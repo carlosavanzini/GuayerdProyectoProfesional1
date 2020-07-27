@@ -6,6 +6,7 @@ h1{
     padding-top: 10px;
     text-align: left;
     background-color:black;
+    color: white;
 }
 
 h2{
@@ -31,7 +32,8 @@ ul,li{
 
 a{
     text-decoration: none;
-    font-family:  'Roboto', sans-serif; ;
+    font-family:  'Roboto', sans-serif; 
+    color: white;
 }
 
 img{
@@ -151,5 +153,6 @@ footer{
     text-align: center;
     padding: 5px;
     margin-top: 5em;
-    background-color:rgb(193, 227, 250);
+    background-color:black;
+    color: white;
 }
