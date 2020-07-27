@@ -97,7 +97,7 @@ iframe{
 }
 
 .contenedor{
-    background-color:rgb(193, 227, 250);
+    background-color:black;
     margin: 40px auto;
     padding: 20px;
     display: flex;
