@@ -28,12 +28,13 @@ ul,li{
     font-family: 'Roboto', sans-serif;  
     padding-bottom: 20px;
     margin: 0.5em;
+    color: #fff;
 }
 
 a{
     text-decoration: none;
     font-family:  'Roboto', sans-serif; 
-    color: white;
+    color: #fff;
 }
 
 img{
