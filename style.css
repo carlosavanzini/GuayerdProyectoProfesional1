@@ -103,3 +103,8 @@ textarea{
     margin:10px;
     padding:0px 10px 10px 250px;  
 }
+
+button{
+    margin-left: 440px;
+    padding: 20px 40px 20px 40px;
+}
