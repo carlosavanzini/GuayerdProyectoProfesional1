@@ -137,6 +137,7 @@ a {
      
 main{   
     width: 100%;
+    
 }
 
 form{
@@ -166,10 +167,12 @@ button{
     align-items: center;
 }
 
-.mainprincipal p{
-    font-size: 35px;
+.mainprincipal .parrafo p{
+    text-align: center;
+    font-size: 30px;
     margin-left: 10px;
     margin-top: 10px;
+    font-family: cursive
 }
 
 h1{
