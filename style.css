@@ -11,8 +11,8 @@ li:hover{
 }
 
 img{
-    height: 200px;
-    width:1349px;
+    height: 250px;
+    width:100%;
 }
 
 nav ul {
@@ -131,7 +131,7 @@ a{
         justify-content: center;
         width: 500px;
         height: 40px;
-       
+        
     }
  
     .box8{
